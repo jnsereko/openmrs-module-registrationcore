@@ -45,7 +45,7 @@
 		<eventVersion>2.3</eventVersion>
 		<namephoneticsVersion>1.4</namephoneticsVersion>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<jodaTimeVersion>2.2</jodaTimeVersion>
+		<jodaTimeVersion>2.10.5</jodaTimeVersion>
 		<apacheHttpCoreVersion>4.4.9</apacheHttpCoreVersion>
 		<apacheHttpClientVersion>4.5</apacheHttpClientVersion>
 	</properties>
